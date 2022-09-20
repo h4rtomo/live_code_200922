@@ -1,0 +1,602 @@
+[
+    {
+        "id": 117964,
+        "SKU": "KCNG001",
+        "item_name": "Kucing Lucu Pake Banget",
+        "product__name": "Kucing Lucu - Lucu Banget"
+    },
+    {
+        "id": 117963,
+        "SKU": "BDG02MBFG",
+        "item_name": "Bandeng 21-30 B",
+        "product__name": "Bandeng - Produk Beku"
+    },
+    {
+        "id": 117962,
+        "SKU": "BDG01MAFG",
+        "item_name": "Bandeng 10-20 A",
+        "product__name": "Bandeng - Produk Beku"
+    },
+    {
+        "id": 117961,
+        "SKU": "ABU0000TP",
+        "item_name": "TONGKOL ABU-ABU Tepung",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117960,
+        "SKU": "ABU0000BL",
+        "item_name": "TONGKOL ABU-ABU Belly",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117959,
+        "SKU": "ABU0000LL",
+        "item_name": "TONGKOL ABU-ABU Lain-Lain",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117958,
+        "SKU": "ABU0000SS",
+        "item_name": "TONGKOL ABU-ABU Sisik",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117957,
+        "SKU": "ABU0000KP",
+        "item_name": "TONGKOL ABU-ABU Kepala",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117956,
+        "SKU": "ABU0000TL",
+        "item_name": "TONGKOL ABU-ABU Tetelan",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117955,
+        "SKU": "ABU0000DR",
+        "item_name": "TONGKOL ABU-ABU Duri/Tulang",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117954,
+        "SKU": "ABU0000SR",
+        "item_name": "TONGKOL ABU-ABU Serbuk",
+        "product__name": "TONGKOL ABU-ABU - Produk Sampingan"
+    },
+    {
+        "id": 117953,
+        "SKU": "JNH0000TP",
+        "item_name": "JENAHA Tepung",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117952,
+        "SKU": "JNH0000BL",
+        "item_name": "JENAHA Belly",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117951,
+        "SKU": "JNH0000LL",
+        "item_name": "JENAHA Lain-Lain",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117950,
+        "SKU": "JNH0000SS",
+        "item_name": "JENAHA Sisik",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117949,
+        "SKU": "JNH0000KP",
+        "item_name": "JENAHA Kepala",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117948,
+        "SKU": "JNH0000TL",
+        "item_name": "JENAHA Tetelan",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117947,
+        "SKU": "JNH0000DR",
+        "item_name": "JENAHA Duri/Tulang",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117946,
+        "SKU": "JNH0000SR",
+        "item_name": "JENAHA Serbuk",
+        "product__name": "JENAHA - Produk Sampingan"
+    },
+    {
+        "id": 117945,
+        "SKU": "BTK0000TP",
+        "item_name": "TONGKOL BATIK Tepung",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117944,
+        "SKU": "BTK0000BL",
+        "item_name": "TONGKOL BATIK Belly",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117943,
+        "SKU": "BTK0000LL",
+        "item_name": "TONGKOL BATIK Lain-Lain",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117942,
+        "SKU": "BTK0000SS",
+        "item_name": "TONGKOL BATIK Sisik",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117941,
+        "SKU": "BTK0000KP",
+        "item_name": "TONGKOL BATIK Kepala",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117940,
+        "SKU": "BTK0000TL",
+        "item_name": "TONGKOL BATIK Tetelan",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117939,
+        "SKU": "BTK0000DR",
+        "item_name": "TONGKOL BATIK Duri/Tulang",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117938,
+        "SKU": "BTK0000SR",
+        "item_name": "TONGKOL BATIK Serbuk",
+        "product__name": "TONGKOL BATIK - Produk Sampingan"
+    },
+    {
+        "id": 117937,
+        "SKU": "TLG0000TP",
+        "item_name": "TALANG Tepung",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117936,
+        "SKU": "TLG0000BL",
+        "item_name": "TALANG Belly",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117935,
+        "SKU": "TLG0000LL",
+        "item_name": "TALANG Lain-Lain",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117934,
+        "SKU": "TLG0000SS",
+        "item_name": "TALANG Sisik",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117933,
+        "SKU": "TLG0000KP",
+        "item_name": "TALANG Kepala",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117932,
+        "SKU": "TLG0000TL",
+        "item_name": "TALANG Tetelan",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117931,
+        "SKU": "TLG0000DR",
+        "item_name": "TALANG Duri/Tulang",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117930,
+        "SKU": "TLG0000SR",
+        "item_name": "TALANG Serbuk",
+        "product__name": "TALANG - Produk Sampingan"
+    },
+    {
+        "id": 117929,
+        "SKU": "GGK0000TP",
+        "item_name": "GOGOKAN Tepung",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117928,
+        "SKU": "GGK0000BL",
+        "item_name": "GOGOKAN Belly",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117927,
+        "SKU": "GGK0000LL",
+        "item_name": "GOGOKAN Lain-Lain",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117926,
+        "SKU": "GGK0000SS",
+        "item_name": "GOGOKAN Sisik",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117925,
+        "SKU": "GGK0000KP",
+        "item_name": "GOGOKAN Kepala",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117924,
+        "SKU": "GGK0000TL",
+        "item_name": "GOGOKAN Tetelan",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117923,
+        "SKU": "GGK0000DR",
+        "item_name": "GOGOKAN Duri/Tulang",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117922,
+        "SKU": "GGK0000SR",
+        "item_name": "GOGOKAN Serbuk",
+        "product__name": "GOGOKAN - Produk Sampingan"
+    },
+    {
+        "id": 117921,
+        "SKU": "KKP0000TP",
+        "item_name": "KAKAP PUTIH Tepung",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117920,
+        "SKU": "KKP0000BL",
+        "item_name": "KAKAP PUTIH Belly",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117919,
+        "SKU": "KKP0000LL",
+        "item_name": "KAKAP PUTIH Lain-Lain",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117918,
+        "SKU": "KKP0000SS",
+        "item_name": "KAKAP PUTIH Sisik",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117917,
+        "SKU": "KKP0000KP",
+        "item_name": "KAKAP PUTIH Kepala",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117916,
+        "SKU": "KKP0000TL",
+        "item_name": "KAKAP PUTIH Tetelan",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117915,
+        "SKU": "KKP0000DR",
+        "item_name": "KAKAP PUTIH Duri/Tulang",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117914,
+        "SKU": "KKP0000SR",
+        "item_name": "KAKAP PUTIH Serbuk",
+        "product__name": "KAKAP PUTIH - Produk Sampingan"
+    },
+    {
+        "id": 117913,
+        "SKU": "UDG0000TP",
+        "item_name": "UDANG Tepung",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117912,
+        "SKU": "UDG0000BL",
+        "item_name": "UDANG Belly",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117911,
+        "SKU": "UDG0000LL",
+        "item_name": "UDANG Lain-Lain",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117910,
+        "SKU": "UDG0000SS",
+        "item_name": "UDANG Sisik",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117909,
+        "SKU": "UDG0000KP",
+        "item_name": "UDANG Kepala",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117908,
+        "SKU": "UDG0000TL",
+        "item_name": "UDANG Tetelan",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117907,
+        "SKU": "UDG0000DR",
+        "item_name": "UDANG Duri/Tulang",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117906,
+        "SKU": "UDG0000SR",
+        "item_name": "UDANG Serbuk",
+        "product__name": "UDANG - Produk Sampingan"
+    },
+    {
+        "id": 117905,
+        "SKU": "TSB0000TP",
+        "item_name": "TUNA SIRIP BIRU Tepung",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117904,
+        "SKU": "TSB0000BL",
+        "item_name": "TUNA SIRIP BIRU Belly",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117903,
+        "SKU": "TSB0000LL",
+        "item_name": "TUNA SIRIP BIRU Lain-Lain",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117902,
+        "SKU": "TSB0000SS",
+        "item_name": "TUNA SIRIP BIRU Sisik",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117901,
+        "SKU": "TSB0000KP",
+        "item_name": "TUNA SIRIP BIRU Kepala",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117900,
+        "SKU": "TSB0000TL",
+        "item_name": "TUNA SIRIP BIRU Tetelan",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117899,
+        "SKU": "TSB0000DR",
+        "item_name": "TUNA SIRIP BIRU Duri/Tulang",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117898,
+        "SKU": "TSB0000SR",
+        "item_name": "TUNA SIRIP BIRU Serbuk",
+        "product__name": "TUNA SIRIP BIRU - Produk Sampingan"
+    },
+    {
+        "id": 117897,
+        "SKU": "TNA0000TP",
+        "item_name": "TUNA Tepung",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117896,
+        "SKU": "TNA0000BL",
+        "item_name": "TUNA Belly",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117895,
+        "SKU": "TNA0000LL",
+        "item_name": "TUNA Lain-Lain",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117894,
+        "SKU": "TNA0000SS",
+        "item_name": "TUNA Sisik",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117893,
+        "SKU": "TNA0000KP",
+        "item_name": "TUNA Kepala",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117892,
+        "SKU": "TNA0000TL",
+        "item_name": "TUNA Tetelan",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117891,
+        "SKU": "TNA0000DR",
+        "item_name": "TUNA Duri/Tulang",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117890,
+        "SKU": "TNA0000SR",
+        "item_name": "TUNA Serbuk",
+        "product__name": "TUNA - Produk Sampingan"
+    },
+    {
+        "id": 117889,
+        "SKU": "TLB0000TP",
+        "item_name": "TONGKOL BANYAR Tepung",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117888,
+        "SKU": "TLB0000BL",
+        "item_name": "TONGKOL BANYAR Belly",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117887,
+        "SKU": "TLB0000LL",
+        "item_name": "TONGKOL BANYAR Lain-Lain",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117886,
+        "SKU": "TLB0000SS",
+        "item_name": "TONGKOL BANYAR Sisik",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117885,
+        "SKU": "TLB0000KP",
+        "item_name": "TONGKOL BANYAR Kepala",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117884,
+        "SKU": "TLB0000TL",
+        "item_name": "TONGKOL BANYAR Tetelan",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117883,
+        "SKU": "TLB0000DR",
+        "item_name": "TONGKOL BANYAR Duri/Tulang",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117882,
+        "SKU": "TLB0000SR",
+        "item_name": "TONGKOL BANYAR Serbuk",
+        "product__name": "TONGKOL BANYAR - Produk Sampingan"
+    },
+    {
+        "id": 117881,
+        "SKU": "TLP0000TP",
+        "item_name": "TILAPIA Tepung",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117880,
+        "SKU": "TLP0000BL",
+        "item_name": "TILAPIA Belly",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117879,
+        "SKU": "TLP0000LL",
+        "item_name": "TILAPIA Lain-Lain",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117878,
+        "SKU": "TLP0000SS",
+        "item_name": "TILAPIA Sisik",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117877,
+        "SKU": "TLP0000KP",
+        "item_name": "TILAPIA Kepala",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117876,
+        "SKU": "TLP0000TL",
+        "item_name": "TILAPIA Tetelan",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117875,
+        "SKU": "TLP0000DR",
+        "item_name": "TILAPIA Duri/Tulang",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117874,
+        "SKU": "TLP0000SR",
+        "item_name": "TILAPIA Serbuk",
+        "product__name": "TILAPIA - Produk Sampingan"
+    },
+    {
+        "id": 117873,
+        "SKU": "TGK0000TP",
+        "item_name": "TETENGKEK Tepung",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117872,
+        "SKU": "TGK0000BL",
+        "item_name": "TETENGKEK Belly",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117871,
+        "SKU": "TGK0000LL",
+        "item_name": "TETENGKEK Lain-Lain",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117870,
+        "SKU": "TGK0000SS",
+        "item_name": "TETENGKEK Sisik",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117869,
+        "SKU": "TGK0000KP",
+        "item_name": "TETENGKEK Kepala",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117868,
+        "SKU": "TGK0000TL",
+        "item_name": "TETENGKEK Tetelan",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117867,
+        "SKU": "TGK0000DR",
+        "item_name": "TETENGKEK Duri/Tulang",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117866,
+        "SKU": "TGK0000SR",
+        "item_name": "TETENGKEK Serbuk",
+        "product__name": "TETENGKEK - Produk Sampingan"
+    },
+    {
+        "id": 117865,
+        "SKU": "TRB0000TP",
+        "item_name": "TERUBUK Tepung",
+        "product__name": "TERUBUK - Produk Sampingan"
+    }
+]
